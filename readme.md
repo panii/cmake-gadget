@@ -16,6 +16,9 @@ A lightweight C-native GUI tool built with SDL3 to automate the CMake workflow f
 +-----------------------------------------------------------------+
 ```
 
+## screenshot
+![screenshot](screenshot.jpg)
+
 ## Usage
 Place cmake-gadget.exe in your project root.
 

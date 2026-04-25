@@ -17,7 +17,7 @@ include_directories(${SDL3_INCLUDE})
 link_directories(${SDL3_LIB})
 
 # Source and Executable
-add_executable(cmake-gadget WIN32 "launcher.c")
+add_executable(cmake-gadget WIN32 "launcher.c" "resource.rc")
 
 # Release Mode Optimizations
 if(MSVC)
